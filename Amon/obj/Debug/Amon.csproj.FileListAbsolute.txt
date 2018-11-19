@@ -1,0 +1,15 @@
+C:\Users\Andres\source\repos\Amon\Amon\bin\Debug\Amon.exe.config
+C:\Users\Andres\source\repos\Amon\Amon\bin\Debug\Amon.exe
+C:\Users\Andres\source\repos\Amon\Amon\bin\Debug\Amon.pdb
+C:\Users\Andres\source\repos\Amon\Amon\bin\Debug\Google.Protobuf.dll
+C:\Users\Andres\source\repos\Amon\Amon\bin\Debug\MySql.Data.dll
+C:\Users\Andres\source\repos\Amon\Amon\bin\Debug\Google.Protobuf.xml
+C:\Users\Andres\source\repos\Amon\Amon\bin\Debug\MySql.Data.xml
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.csprojResolveAssemblyReference.cache
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.Form1.resources
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.Properties.Resources.resources
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.csproj.GenerateResource.Cache
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.exe
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.pdb
+C:\Users\Andres\source\repos\Amon\Amon\obj\Debug\Amon.addItem.resources
